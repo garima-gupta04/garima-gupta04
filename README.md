@@ -52,7 +52,7 @@ Stack: Excel, PowerPoint, Python (Pandas)
 
 ---
 
-📌 [🚗 Road Accident Dashboard (2021–2022)](https://github.com/garima-gupta04/road-accident-dashboard)  
+📌 [🚗 Road Accident Dashboard (2021–2022)](https://github.com/garima-gupta04/Road_accident_dashboard_2021-2022)  
 An interactive dashboard visualizing two years of Indian road accident data to uncover key patterns, causes, and trends.  
 Tools Used: Excel, Power BI   
 🔍 Includes filtering by year, location, vehicle type, and accident severity.  
