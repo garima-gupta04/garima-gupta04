@@ -22,9 +22,9 @@ Skilled in interpreting data, generating insights, and building intuitive digita
 
 🛠 Skills & Tools
 
-Languages: `C/C++`, `Python`, `SQL`, `HTML/CSS`,`PHP`,`JavaScript`
-Tools & Frameworks: `Bootstrap`, `Figma`, `MATLAB`, `VS Code`, `MySQL`,` Firebase` 
-Other Competencies: `DBMS`, `Business Insights`, `Technical Writing`, `UI/UX`
+Languages: `C/C++`, `Python`, `SQL`, `HTML/CSS`,`PHP`,`JavaScript`.  
+Tools & Frameworks: `Bootstrap`, `Figma`, `MATLAB`, `VS Code`, `MySQL`,` Firebase`.  
+Other Competencies: `DBMS`, `Business Insights`, `Technical Writing`, `UI/UX`.  
 Soft Skills: Analytical Thinking, Problem Solving, Adaptability, Self-Motivation
 
 ---
