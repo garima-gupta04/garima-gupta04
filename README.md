@@ -29,14 +29,18 @@ Soft Skills: Analytical Thinking, Problem Solving, Adaptability, Self-Motivation
 
 ---
 
-🚀 Projects
+## 🚀 Leadership & Extracurriculars
+Walmart Hackathon – Smart Trolley Solution](https://github.com/garima-gupta04/walmarthackathon) (Aug 2024) 
+- Led a cross-functional team to design and prototype a **Smart Trolley** for automating shopping and reducing billing queues.  
+- Conducted brainstorming and role-playing sessions to refine the **user experience** based on real-world scenarios.  
 
-🔗 [SweetCheck – Daily Sugar Intake Analyzer](https://github.com/garima-gupta04/sugar-control)
-A web app that lets users log their daily sugar intake across meals.  
-Stack: JavaScript, HTML/CSS, Firebase  
-💡 Built for improving daily health tracking in a fun, responsive way.
+Internal Smart India Hackathon – Smart School Camera(https://github.com/garima-gupta04/sih) (Sep 2024)  
+- Proposed and developed a **camera-based attendance system** using facial recognition to reduce proxy attendance in schools.  
+- Implemented real-time verification for both teachers and students.  
 
 ---
+
+🚀 Projects
 
 🔗 [Blood Donation Platform](https://github.com/garima-gupta04/blooddonate)
 A responsive app to locate blood donors and hospital blood banks.  
@@ -57,13 +61,6 @@ An interactive dashboard visualizing two years of Indian road accident data to u
 Tools Used: Excel, Power BI   
 🔍 Includes filtering by year, location, vehicle type, and accident severity.  
 📈 Offers actionable insights to support traffic safety improvements.
-
-📚 Education
-
-B.Tech – Computer Science & Business Studies**  
-Thapar Institute of Engineering and Technology, Patiala  
-CGPA: 8.54 / 10.0  
-_Coursework_: Business Analytics, Cloud Computing, Financial Accounting, AI, Database Systems
 
 ---
 
